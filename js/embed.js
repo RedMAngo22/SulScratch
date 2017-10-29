@@ -6,8 +6,8 @@
   })(document.getElementsByTagName('script'));
 
   var hasUI = true;
-  var resolutionX = 480;
-  var resolutionY = 360;
+  var resolutionX = 487;
+  var resolutionY = 260;
   var params = script.src.split('?')[1].split('&');
   params.forEach(function(p) {
     var parts = p.split('=');
